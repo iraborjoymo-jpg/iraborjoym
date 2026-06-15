@@ -23,4 +23,4 @@ A one-page portfolio showcasing my skills, services, tools, testimonials, and co
 ## Contact
 - 📧 iraborjoymo@gmail.com
 - 📱 +234-7077501298
-- 💼 [LinkedIn](https://linkedin.com/in/joy-irabor)
+- 💼 [LinkedIn](https://www.linkedin.com/in/joy-irabor-virtual-solutions)
