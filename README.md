@@ -3,8 +3,7 @@
 My personal portfolio website, built with HTML & CSS and hosted free on GitHub Pages.
 
 ## 🌐 Live Site
-[https://yourusername.github.io](https://yourusername.github.io)
-
+[https://iraborjoymo-jpg.github.io/] (https://iraborjoymo-jpg.github.io/)
 ## About
 A one-page portfolio showcasing my skills, services, tools, testimonials, and contact information as a Virtual Assistant specializing in executive support, admin management, and operations.
 
